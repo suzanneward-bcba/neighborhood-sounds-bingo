@@ -13,6 +13,6 @@ Find the sound game (QR code target): https://suzanneward-bcba.github.io/neighbo
 - `#credits`: sound sources
 
 ## Sound credits
-Recordings are CC0 (public domain) clips from Freesound, via the ESC-50 dataset by Karol J. Piczak. The phone ring is a generated tone. Full list is on the Sound credits tab.
+Recordings are CC0 (public domain) clips from Freesound, via the ESC-50 dataset by Karol J. Piczak, except one child-laughing clip by OBXJohn (CC BY 3.0). The phone ringtone, train horn, and ball bounce are generated. Full list is on the Sound credits tab.
 
 QR codes are generated with qrcode-generator by Kazuhiko Arase (MIT License).
